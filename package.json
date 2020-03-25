@@ -19,6 +19,13 @@
     "@angular/platform-browser": "~9.0.6",
     "@angular/platform-browser-dynamic": "~9.0.6",
     "@angular/router": "~9.0.6",
+    "@ckeditor/ckeditor5-angular": "^1.2.2",
+    "@ckeditor/ckeditor5-basic-styles": "^18.0.0",
+    "@ckeditor/ckeditor5-essentials": "^18.0.0",
+    "@ckeditor/ckeditor5-image": "^18.0.0",
+    "@ckeditor/ckeditor5-paragraph": "^18.0.0",
+    "ckeditor-image-plugin": "file:../ckeditor-image-plugin",
+    "ckeditor5-build-classic": "file:../ckeditor5-build-classic",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
