@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@akilli/ckeditor5-media": "file:../ckeditor5-media",
     "@angular/animations": "~9.0.6",
     "@angular/common": "~9.0.6",
     "@angular/compiler": "~9.0.6",
