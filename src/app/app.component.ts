@@ -14,7 +14,6 @@ export class AppComponent implements OnInit {
   public editor;
   public config = {
     fileStackApiKey: 'A18C8tiqiSLajuwagRYqtz',
-    uploadPath: '/',
     getPath: (event) => {
       debugger;
       return '/';
