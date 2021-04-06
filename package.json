@@ -23,7 +23,7 @@
     "@ckeditor/ckeditor5-angular": "^1.2.2",
     "@ckeditor/ckeditor5-basic-styles": "^18.0.0",
     "@ckeditor/ckeditor5-essentials": "^18.0.0",
-    "@ckeditor/ckeditor5-image": "^18.0.0",
+    "@ckeditor/ckeditor5-image": "^27.0.0",
     "@ckeditor/ckeditor5-paragraph": "^18.0.0",
     "ckeditor-media-browser": "git+https://github.com/oleksiv/ckeditor-media-browser.git",
     "filestack-js": "^3.13.0",
